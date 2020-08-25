@@ -1,0 +1,4 @@
+#Tue Aug 25 18:21:50 IST 2020
+base.0=/mnt/sda7/flutterspace/video_assis/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

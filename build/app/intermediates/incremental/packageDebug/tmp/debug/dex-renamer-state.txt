@@ -1,0 +1,4 @@
+#Tue Aug 25 17:51:36 IST 2020
+base.0=/mnt/sda7/flutterspace/video_assis/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

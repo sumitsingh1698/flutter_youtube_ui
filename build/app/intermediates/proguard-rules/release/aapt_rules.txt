@@ -1,0 +1,6 @@
+# Referenced at /mnt/sda7/flutterspace/video_assis/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:20
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /mnt/sda7/flutterspace/video_assis/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:25
+-keep class com.example.video_assis.MainActivity { <init>(); }
+# Referenced at /mnt/sda7/flutterspace/video_assis/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:20
+-keep class io.flutter.app.FlutterApplication { <init>(); }
